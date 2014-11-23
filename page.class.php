@@ -1,7 +1,7 @@
 <?php
 
 if (!defined("CLASS_LIB")) {
-	echo "hacher attack";
+	echo "hacker attack";
 	exit;
 }
 
